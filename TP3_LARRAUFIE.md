@@ -2,7 +2,7 @@ LARRAUFIE
 TOM 
 3ICS
 
-#TP 3 - commandes linux
+# TP 3 - commandes linux
 
 ## Exercice 1. Commandes de base Commencez par mettre à jour votre système avec les commandes vues dans le cours. Donnez les commandes répondant aux questions suivantes : 
 
